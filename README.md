@@ -19,5 +19,5 @@ Fitur utama yang ada pada website ini meliputi:
 - **JavaScript**: Untuk beberapa interaksi di sisi frontend, seperti validasi form dan update tampilan secara dinamis.
 - **Apache**: Web server untuk menjalankan website.
 
-## Struktur Proyek
+
 
